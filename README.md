@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Gajjar</h1>
 <h3 align="center">A passionate developer from India | 👨‍🎓Student at SSIU'25 | 🌱 Building Codie Guy Community | ISP'22 | GSSOC'23 | 🏔️ Trailblazer | 🏆 of BLOG MANIA'22 🤗 | Tech and Community Enthusiast 😎 | Always Learner 🔥🚀</h3>
 
+<br/>
 
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajjararyan" alt="gajjararyan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aryan15092002" target="blank"><img src="https://img.shields.io/twitter/follow/aryan15092002?logo=twitter&style=for-the-badge" alt="aryan15092002" /></a> </p>
