@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Gajjar</h1>
 <h3 align="center">A passionate developer from India | 👨‍🎓Student at SSIU'25 | 🌱 Building Codie Guy Community | ISP'22 | GSSOC'23 | 🏔️ Trailblazer | 🏆 of BLOG MANIA'22 🤗 | Tech and Community Enthusiast 😎 | Always Learner 🔥🚀</h3>
-<img align="right" alt"Coding" width"400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&ved=2ahUKEwjn6tztm5WAAxVf5zgGHZmJA9QQ2-cCegQIABAA&oq=animated+coding+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgYIABAIEB4yBggAEAgQHjIHCAAQGBCABDIHCAAQGBCABDIHCAAQGBCABDoECCMQJzoGCAAQBxAeOggIABCABBCxA1CkH1iMQ2CYS2gAcAB4AIABmQOIAd0nkgEHMi05LjcuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=jO20ZOf0Jt_O4-EPmZOOoA0&bih=663&biw=1143&client=firefox-b-d#imgrc=ZmOH4FBlhx83-M">
+<img align="right" alt"Coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajjararyan&label=Profile%20views&color=0e75b6&style=flat" alt="gajjararyan" /> </p>
 
