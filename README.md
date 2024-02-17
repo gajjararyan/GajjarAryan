@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/aryan15092002" target="blank"><img src="https://img.shields.io/twitter/follow/aryan15092002?logo=twitter&style=for-the-badge" alt="aryan15092002" /></a> </p>
 
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m currently working on **Projects to learn & give back to Community 😇 🙌**
 
 - 🌱 I’m currently learning **Full Stack**
 
