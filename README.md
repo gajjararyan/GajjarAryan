@@ -42,7 +42,7 @@
 
 <br>
 
-<h2>Always looking for Opprotunity to learn, collaborate and Contribute in Community 🤗 .</h2>
+<h2>Always looking for Opprotunity to learn, collaborate and contribute in Community 🤗.</h2>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="470px" ></p>
 
