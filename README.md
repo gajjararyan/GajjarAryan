@@ -13,9 +13,14 @@
 - 💬 Ask me about **Community , Technology etc.**
 
 - 📫 How to reach me **gajjararyan@gmail.com**
+  
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/aryan_1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aryan_1509" height="30" width="40" /></a>
 <a href="https://twitter.com/aryan15092002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan15092002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryangajjar1509/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryangajjar1509/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21492113/gajjar-aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21492113/gajjar-aryan" height="30" width="40" /></a>
@@ -37,3 +42,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajjararyan&theme=dark" alt="gajjararyan" /></p>
+
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
