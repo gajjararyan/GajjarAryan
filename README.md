@@ -49,9 +49,19 @@
   
 <h3> Me and My Community 💛 😍 are Always ready to help enthusiast folks 😎 !! It all started 🤩 with me and my friend, with not having a such Tech and Community environment in Tier-3 College where we worked and now this are such Workshops , events and many more 🥳. Just started.... 😉 🔥🚀 </h3>
 
+<hr>
 
+<p align="center"> <img src="Internshala first event.jpg" alt="gajjararyan" width="327px" /> <img src="Flow event.png" alt="gajjararyan" width="337px" /> <img src="Web 3 Venom.png" alt="gajjararyan" width="327px" /> </p>
+
+<p align="center"> <img src="India Dreamin'23.jpg" alt="gajjararyan" width="327px" /> <img src="GDSC wow Gujarat.jpg" alt="gajjararyan" width="337px" /> <img src="Zeeve 1.png" alt="gajjararyan" width="327px" /> </p>
+
+<p align="center"> <img src="GDSC Intro.JPG" alt="gajjararyan" width="327px" /> <img src="Devops  workshop.png" alt="gajjararyan" width="337px" /> <img src="API 101.jpg" alt="gajjararyan" width="327px" /> </p>
+
+<p align="center"> <img src="Fastn.JPG" alt="gajjararyan" width="327px" /> <img src="Github with Github.dev.jpg" alt="gajjararyan" width="337px" /> <img src="Cloud Carnival group Photo.jpg" alt="gajjararyan" width="327px" /> </p>
 
 </p>
+
+<hr>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400px" ></p>
 
