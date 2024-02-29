@@ -51,13 +51,13 @@
 
 <hr>
 
-<p align="center"> <img src="Internshala first event.jpg" alt="gajjararyan" width="327px" /> <img src="Flow event.png" alt="gajjararyan" width="337px" /> <img src="Web 3 Venom.png" alt="gajjararyan" width="327px" /> </p>
+<p align="center"> <img src="Internshala first event.jpg" alt="gajjararyan" width="227px" /> <img src="Flow event.png" alt="gajjararyan" width="227px" /> <img src="Web 3 Venom.png" alt="gajjararyan" width="227px" /> </p>
 
-<p align="center"> <img src="India Dreamin'23.jpg" alt="gajjararyan" width="327px" /> <img src="GDSC wow Gujarat.jpg" alt="gajjararyan" width="337px" /> <img src="Zeeve 1.png" alt="gajjararyan" width="327px" /> </p>
+<p align="center"> <img src="India Dreamin'23.jpg" alt="gajjararyan" width="227px" /> <img src="GDSC wow Gujarat.jpg" alt="gajjararyan" width="227px" /> <img src="Zeeve 1.png" alt="gajjararyan" width="227px" /> </p>
 
-<p align="center"> <img src="GDSC Intro.JPG" alt="gajjararyan" width="327px" /> <img src="Devops  workshop.png" alt="gajjararyan" width="337px" /> <img src="API 101.jpg" alt="gajjararyan" width="327px" /> </p>
+<p align="center"> <img src="GDSC Intro.JPG" alt="gajjararyan" width="227px" /> <img src="Devops  workshop.png" alt="gajjararyan" width="227px" /> <img src="API 101.jpg" alt="gajjararyan" width="227px" /> </p>
 
-<p align="center"> <img src="Fastn.JPG" alt="gajjararyan" width="327px" /> <img src="Github with Github.dev.jpg" alt="gajjararyan" width="337px" /> <img src="Cloud Carnival group Photo.jpg" alt="gajjararyan" width="327px" /> </p>
+<p align="center"> <img src="Fastn.JPG" alt="gajjararyan" width="227px" /> <img src="Github with Github.dev.jpg" alt="gajjararyan" width="227px" /> <img src="Cloud Carnival group Photo.jpg" alt="gajjararyan" width="227px" /> </p>
 
 </p>
 
