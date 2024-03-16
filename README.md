@@ -43,7 +43,7 @@
 
 <hr>
 
-<h2>Always looking for Opprotunity to learn, collaborate and contribute in Community 🤗.</h2>
+<h2>Always looking for Opportunity to learn, collaborate and contribute in Community 🤗.</h2>
 
 <p align="center">
   
