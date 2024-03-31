@@ -43,11 +43,11 @@
 
 <hr>
 
-<h2>Always looking for Opportunity to learn, collaborate and contribute in Community 🤗.</h2>
+ <!-- <h2>Always looking for Opportunity to learn, collaborate and contribute in Community 🤗.</h2> -->
 
 <p align="center">
   
-<h3> Me and My Community 💛 😍 are Always ready to help enthusiast folks 😎 !! It all started 🤩 with me and my friend, with not having a such Tech and Community environment in Tier-3 College where we worked and now this are such Workshops , events and many more 🥳. Just started.... 😉 🔥🚀 </h3>
+<h3> Always looking for Opportunity to learn, collaborate and contribute in Community 🤗. Me and My Community 💛 😍 are Always ready to help enthusiast folks 😎 !! It all started 🤩 with me and my friend, with not having a such Tech and Community environment in Tier-3 College where we worked and now this are such Workshops, events and many more 🥳. Just started.... 😉 🔥🚀 </h3>
 
 </p>
 
