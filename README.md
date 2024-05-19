@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 💬 Ask me about **Community , Technology etc.**
+- 💬 Ask me about **Tech, Community and Hackathons etc.**
 
 - 📫 How to reach me **gajjararyan@gmail.com**
   
