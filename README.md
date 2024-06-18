@@ -37,7 +37,7 @@
 
 <p align="center">
          <img alt="stats card" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=gajjararyan&theme=dark" alt="gajjararyan" />
-         <!--          <img align="center" src="https://github-readme-stats.vercel.app/api?username=gajjararyan&show_icons=true&theme=tokyonight&locale=en" alt="gajjararyan" /> -->
+                  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gajjararyan&show_icons=true&theme=tokyonight&locale=en" alt="gajjararyan" />
          <br>
 </p>
 
