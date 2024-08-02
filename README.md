@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Gajjar <img src='rocket.gif' width="70px"> </h1>
-<h3 align="center">A passionate programmer from India | 👨‍🎓Student at SSIU'25 | Aspiring DevRel 🥑 | 🌱 Building Codie Guy Community | 💻 GDSC Core Member | Postman Student Leader 🤩 | β-MLSA 😇 | GSSOC'23 | 🎖️ Trailblazer | 🏆 of BLOG MANIA'22 🤗 | Tech and Community Enthusiast 😎 | Always Learner 🔥🚀</h3>
+<h3 align="center">A passionate programmer from India | 👨‍🎓Student at SSIU'25 | Aspiring DevRel 🥑 | 🌱 Building Codie Guy Community | Organizing Hack The Mountains 🗻 | 💻 GDSC Core Member | Postman Student Leader 🤩 | β-MLSA 😇 | GSSOC'23 | 🎖️ Trailblazer | 🏆 of BLOG MANIA'22 🤗 | Tech and Community Enthusiast 😎 | Always Learner 🔥🚀</h3>
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajjararyan&label=Profile%20Views&color=9bff37&style=plastic" alt="gajjararyan" /> </p>
