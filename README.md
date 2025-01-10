@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Projects to learn & give back to Community 😇 🙌**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Full Stack & AI/ML**
 
 - 💬 Ask me about **Tech, Community and Hackathons etc.**
 
