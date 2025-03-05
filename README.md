@@ -38,10 +38,8 @@
 
 <p align="center">
          <br>
-                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gajjararyan&show_icons=true&theme=tokyonight&locale=en" alt="gajjararyan" />
+<!--                     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gajjararyan&show_icons=true&theme=tokyonight&locale=en" alt="gajjararyan" /> -->
 </p>
-
-<hr>
 
  <!-- <h2>Always looking for Opportunity to learn, collaborate and contribute in Community 🤗.</h2> -->
 
